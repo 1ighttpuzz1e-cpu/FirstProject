@@ -9,6 +9,6 @@
 - 전자기기
 - 
 
-> No day, but today
+> **No day, but today**
 >
 > -- 뮤지컬 <렌트>
